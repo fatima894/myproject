@@ -1,5 +1,7 @@
 h1
 {
     color:blue;
-    size: 20;
+    size: 100px;
+    background-color: chocolate;
+    font-family: 'Courier New', Courier, monospace;
 }
